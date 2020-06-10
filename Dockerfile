@@ -6,3 +6,5 @@ MAINTAINER Trey Leonard
 
 # Run a command inside the image
 RUN apt-get update
+
+EXPOSE 33669 33670 33671
